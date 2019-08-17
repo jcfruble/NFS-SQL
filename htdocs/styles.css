@@ -1,0 +1,235 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {	width: 1024px;
+	margin-right: auto;
+	margin-left: auto;
+	height: 641px;
+	border-top-width: 5px;
+	border-right-width: 5px;
+	border-bottom-width: 5px;
+	border-left-width: 5px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	background-color: #960;
+	position: relative;
+	background-image: none;
+        text-align: left;
+}
+
+
+h2 {    text-align: center;        
+        text-decoration-line: underline;
+}
+
+#topo {	height: 99px;
+	width: 1024px;
+	background-color: #FC6;
+        position: relative;
+}
+
+#title {
+        float: left;
+        height: 99px;
+        width: 560px;
+	text-align: center;
+        vertical-align: middle;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: xx-large;
+	font-weight: bold;
+	color: #630;
+}
+
+#ul { float: left;
+}
+
+#ur { float: left;
+}
+
+#dl { float: left;
+}
+
+#dr { float: left;
+}
+
+#menubar {
+	float: left;
+	height: 500px;
+	width: 140px;
+	background-color: #FC6;
+	position: static;
+	left: 0px;
+}
+#botoes {
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 23px;
+}
+.botao {
+	padding: 0px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#centro {
+	float: left;
+	height: 500px;
+	width: 884px;
+	padding: 0px;
+	color: #FFC;
+	margin: 0px;
+}
+#centrotxt {
+	padding: 20px;
+	margin: 20px;
+	text-align: left;
+	font-family: Verdana, Geneva, sans-serif;
+	font-weight: bold;
+	position: relative;
+}
+#sobretxt {
+	padding: 20px;
+	margin: 20px;
+	text-align: center;
+	font-family: Verdana, Geneva, sans-serif;
+	font-weight: bold;
+	line-height: normal;
+}
+#linkstxt {
+	padding: 20px;
+	margin: 20px;
+	text-align: center;
+	font-family: Verdana, Geneva, sans-serif;
+	font-weight: bold;
+}
+#imagestxt {
+	padding: 20px;
+	text-align: center;
+	font-family: Verdana, Geneva, sans-serif;
+	font-weight: bold;
+	margin-top: 120px;
+	margin-right: 35px;
+	margin-bottom: 35px;
+	margin-left: 35px;
+	height: 300px;
+}
+#imgtitle {
+	float: left;
+	width: 514px;
+	padding: 10px;
+	text-align: center;
+	font-size: large;
+	font-weight: bold;
+	background-color: #630;
+	margin-top: 40px;
+	margin-bottom: 10px;
+}
+#imgprev {
+	float: left;
+	width: 150px;
+	text-align: center;
+	background-color: #FC6;
+	padding: 2px;
+	margin-top: 40px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+}
+#imgnext {
+	float: left;
+	width: 150px;
+	text-align: center;
+	background-color: #FC6;
+	padding: 2px;
+	margin-top: 40px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+}
+
+#imgblank {
+	float: left;
+	width: 150px;
+	text-align: center;
+	padding: 2px;
+	margin-top: 40px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+}
+
+#enquetetxt {
+	margin: 20px;
+	text-align: left;
+	font-family: Arial, Helvetica, sans-serif;
+	position: relative;
+}
+
+#sobredl dt {
+	text-align: right;
+	position: relative;
+	right: 650px;
+	font-style: italic;
+	font-weight: bold;
+	color: #FF0;
+}
+#sobredl dd {
+	margin-left: 100px;
+}
+
+
+
+#rodape {
+	float: left;
+	height: 42px;
+	width: 1024px;
+	background-color: #FC6;
+}
+#subtexto {
+	float: left;
+	width: 554px;
+	height: 42px;
+}
+#jogoimg {
+	float: left;
+}
+
+#jogoinfo {
+	height: 280px;
+	width: 530px;
+	float: left;
+	margin-left: 20px;
+}
+#enquetebest {
+	float: left;
+	width: 400px;
+	height: 410px;
+}
+#enqueteplayd {
+	float: left;
+	width: 400px;
+	height: 410px;
+}
+#enquetefim {
+	float: left;
+	width: 600px;
+}
+#enquetesend {
+	float: left;
+	width: 50px;
+}
+#resulttxt {
+	padding: 20px;
+	margin: 20px;
+	text-align: center;
+	font-family: Verdana, Geneva, sans-serif;
+	font-weight: bold;
+	position: relative;
+}
+
+.corner {
+        float: left;
+}
